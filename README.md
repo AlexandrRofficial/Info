@@ -1,7 +1,7 @@
 # Hi there, I'm Alexander 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Programmer;Linux+%26+Enthusiast;AI+and+Vibe+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Programmer;Linux+%26;AI+and+Vibe+coding" alt="Typing SVG" />
 </p>
 
 ---
